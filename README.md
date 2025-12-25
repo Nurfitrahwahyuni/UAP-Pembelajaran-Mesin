@@ -1,4 +1,3 @@
-# UAP-Pembelajaran-Mesin
 # 🍽️ Food-11 Image Classification
 
 **Ujian Akhir Praktikum (UAP) – Pembelajaran Mesin**
